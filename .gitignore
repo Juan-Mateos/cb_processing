@@ -81,6 +81,7 @@ target/
 /data/raw/
 /data/external/
 /data/interim/
+/data/processed/
 
 # Mac OS-specific storage files
 .DS_Store
@@ -91,3 +92,6 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+#any team credentials etc
+mysqldb_team.config
